@@ -306,12 +306,6 @@ make plan ENV=dev
 make apply ENV=dev
 make destroy ENV=dev
 
-
-Why recruiters love seeing this:
-✔️ Shows process automation skills
-✔️ Demonstrates structured workflows
-✔️ Enables reproducible operations
-
 🚀 Why This Project Is Production-Ready
 Feature	Value
 🔐 IAM roles	Least-privilege access
