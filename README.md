@@ -25,7 +25,7 @@ This project demonstrates production-level thinking as a Cloud Engineer / DevOps
 
 Here is your complete project layout with explanations for every folder and file.
 
-![Architecture Diagram](images/carbon.png)
+![Structure Diagram](images/carbon.png)
 
 
 
