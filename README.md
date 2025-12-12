@@ -19,7 +19,7 @@ This repository contains a fully modular, multi-environment Infrastructure-as-Co
 This project demonstrates production-level thinking as a Cloud Engineer / DevOps Engineer, showcasing skills that employers expect in modern cloud infrastructure automation.
 
 🏗️ **High-Level Architecture**
-![Architecture Diagram](images/757aws_enterprise_architecture.png)
+![Architecture Diagram](images/architect757.png)
 
 📁 **Repository Structure**
 
