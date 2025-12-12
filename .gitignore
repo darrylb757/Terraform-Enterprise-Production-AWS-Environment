@@ -1,0 +1,16 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Crash logs
+.crash
+
+# Terraform working directory
+.terraform/
+.terraform.lock.hcl
+
+# ZIP packages (Lambda, archives)
+*.zip
+
+# Sensitive variable files
+*.tfvars
